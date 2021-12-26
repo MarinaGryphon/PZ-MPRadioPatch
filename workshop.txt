@@ -1,0 +1,7 @@
+version=1
+title=Build 41 Multiplayer Radio Patch
+description=This mod fixes radios in Build 41's multiplayer.
+description=
+description=The source is available at 
+tags=
+visibility=public
